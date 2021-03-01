@@ -1,7 +1,6 @@
 {
-	"name": "template-repos-static",
+	"name": "invitation-registry",
 	"private": true,
-	"description": "Template repository for static files",
 	"scripts": {
 		"lint": "prettier --write '**/*.{json,md,yml}'"
 	},
@@ -16,11 +15,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/dev-protocol/assets.git"
+		"url": "git+https://github.com/dev-protocol/invitation-registry.git"
 	},
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/dev-protocol/assets/issues"
+		"url": "https://github.com/dev-protocol/invitation-registry/issues"
 	},
-	"homepage": "https://github.com/dev-protocol/assets#readme"
+	"homepage": "https://github.com/dev-protocol/invitation-registry#readme"
 }
