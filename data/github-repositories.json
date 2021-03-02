@@ -1,5 +1,5 @@
 {
-	"vyperlang/vyper": true,
+	"vyperlang/vyper": false,
 	"nuxt-community/typescript-template": true,
 	"crowi/crowi": true,
 	"rmanzoku/go-awseoa": true,
