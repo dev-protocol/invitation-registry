@@ -31,5 +31,9 @@
 	"commons-stack/iteration0": true,
 	"sammdec/nfte": true,
 	"Akira-Taniguchi/test": true,
-	"studioTeaTwo/aframe-japanese-font": true
+	"studioTeaTwo/aframe-japanese-font": true,
+	"jpycoin/jpyc": true,
+	"warashibe/hide": true,
+	"ounziw/symbol_api_settings": true,
+	"pock/pock": true
 }
