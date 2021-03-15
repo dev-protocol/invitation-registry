@@ -35,5 +35,6 @@
 	"jpycoin/jpyc": true,
 	"warashibe/hide": true,
 	"ounziw/symbol_api_settings": true,
-	"pock/pock": true
+	"pock/pock": true,
+	"Giveth/giveth-dapp": true
 }
