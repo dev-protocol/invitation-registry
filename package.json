@@ -2,12 +2,8 @@
 	"name": "invitation-registry",
 	"private": true,
 	"scripts": {
-		"lint": "prettier --write '**/*.{json,md,yml}'"
-	},
-	"husky": {
-		"hooks": {
-			"pre-commit": "npm run lint"
-		}
+		"lint": "prettier --write '**/*.{json,md,yml}'",
+		"prepare": "husky install"
 	},
 	"devDependencies": {
 		"husky": "5.2.0",
