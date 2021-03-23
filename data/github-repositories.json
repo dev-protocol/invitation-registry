@@ -38,5 +38,6 @@
 	"pock/pock": true,
 	"Giveth/giveth-dapp": true,
 	"arbace/mandane": true,
-	"vasa-develop/cross-asset-swap": true
+	"vasa-develop/cross-asset-swap": true,
+	"CryptoVizor/CryptoVizorApp": true
 }
