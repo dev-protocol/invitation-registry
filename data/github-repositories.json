@@ -40,5 +40,6 @@
 	"arbace/mandane": true,
 	"vasa-develop/cross-asset-swap": true,
 	"CryptoVizor/CryptoVizorApp": true,
-	"bunchy-protocol/hack-nfl-contracts": true
+	"bunchy-protocol/hack-nfl-contracts": true,
+	"AlFasGD/GenericsAnalyzer": true
 }
