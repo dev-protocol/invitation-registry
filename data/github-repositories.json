@@ -42,5 +42,6 @@
 	"CryptoVizor/CryptoVizorApp": true,
 	"bunchy-protocol/hack-nfl-contracts": true,
 	"AlFasGD/GenericsAnalyzer": true,
-	"varkiwi/git3-contracts": true
+	"varkiwi/git3-contracts": true,
+	"zgendao/ethane": true
 }
