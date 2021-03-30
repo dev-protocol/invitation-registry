@@ -43,5 +43,7 @@
 	"bunchy-protocol/hack-nfl-contracts": true,
 	"AlFasGD/GenericsAnalyzer": true,
 	"varkiwi/git3-contracts": true,
-	"zgendao/ethane": true
+	"zgendao/ethane": true,
+	"hmsk/vite-plugin-elm": true,
+	"hmsk/vite-plugin-markdown": true
 }
