@@ -46,5 +46,6 @@
 	"zgendao/ethane": true,
 	"hmsk/vite-plugin-elm": true,
 	"hmsk/vite-plugin-markdown": true,
-	"talentlessguy/tinyhttp": true
+	"talentlessguy/tinyhttp": true,
+	"mooni/mooni": true
 }
