@@ -47,5 +47,6 @@
 	"hmsk/vite-plugin-elm": true,
 	"hmsk/vite-plugin-markdown": true,
 	"talentlessguy/tinyhttp": true,
-	"mailchain/mailchain": true
+	"mailchain/mailchain": true,
+	"philippetedajo/Codetree": true
 }
