@@ -48,5 +48,6 @@
 	"hmsk/vite-plugin-markdown": true,
 	"talentlessguy/tinyhttp": true,
 	"mailchain/mailchain": true,
-	"philippetedajo/Codetree": true
+	"philippetedajo/Codetree": true,
+	"ScytheSwapProtocol/app": true
 }
