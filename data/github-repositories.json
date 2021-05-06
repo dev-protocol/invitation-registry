@@ -49,5 +49,6 @@
 	"talentlessguy/tinyhttp": true,
 	"mailchain/mailchain": true,
 	"philippetedajo/Codetree": true,
-	"ScytheSwapProtocol/app": true
+	"ScytheSwapProtocol/app": true,
+	"alisista/py-alis": true
 }
