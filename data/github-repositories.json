@@ -47,5 +47,9 @@
 	"hmsk/vite-plugin-elm": true,
 	"hmsk/vite-plugin-markdown": true,
 	"talentlessguy/tinyhttp": true,
-	"mooni/mooni": true
+	"mooni/mooni": true,
+	"mailchain/mailchain": true,
+	"philippetedajo/Codetree": true,
+	"ScytheSwapProtocol/app": true,
+	"alisista/py-alis": true
 }
