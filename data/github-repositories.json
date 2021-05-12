@@ -51,5 +51,8 @@
 	"mailchain/mailchain": true,
 	"philippetedajo/Codetree": true,
 	"ScytheSwapProtocol/app": true,
-	"alisista/py-alis": true
+	"alisista/py-alis": true,
+	"jamesray1/Gaja": true,
+	"y-temp4/rehype-title-figure": true,
+	"ChristianChiarulli/LunarVim": true
 }
