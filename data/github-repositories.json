@@ -56,5 +56,6 @@
 	"y-temp4/rehype-title-figure": true,
 	"ChristianChiarulli/LunarVim": true,
 	"Conata/ConataWorld": true,
-	"and-riyo/Virtual-streamer-and-riyo": true
+	"and-riyo/Virtual-streamer-and-riyo": true,
+	"tomavelev/flutter_updateable_plugin": true
 }
