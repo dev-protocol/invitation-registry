@@ -57,5 +57,7 @@
 	"ChristianChiarulli/LunarVim": true,
 	"Conata/ConataWorld": true,
 	"and-riyo/Virtual-streamer-and-riyo": true,
-	"tomavelev/flutter_updateable_plugin": true
+	"tomavelev/flutter_updateable_plugin": true,
+	"SQ-UI/ng-sq-ui": true,
+	"ksk001100/seahorse": true
 }
