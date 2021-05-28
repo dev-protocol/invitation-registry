@@ -59,5 +59,6 @@
 	"and-riyo/Virtual-streamer-and-riyo": true,
 	"tomavelev/flutter_updateable_plugin": true,
 	"SQ-UI/ng-sq-ui": true,
-	"ksk001100/seahorse": true
+	"ksk001100/seahorse": true,
+	"bar-loon/barloon-web": true
 }
