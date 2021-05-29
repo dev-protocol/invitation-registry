@@ -65,5 +65,6 @@
 	"steelydylan/react-split-mde": true,
 	"slidevjs/slidev": true,
 	"vueuse/vueuse": true,
-	"saberland/saber": true
+	"saberland/saber": true,
+	"egoist/tsup": true
 }
