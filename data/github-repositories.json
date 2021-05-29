@@ -66,5 +66,10 @@
 	"slidevjs/slidev": true,
 	"vueuse/vueuse": true,
 	"saberland/saber": true,
-	"egoist/tsup": true
+	"egoist/tsup": true,
+	"Agin-DropDisco/FOXES": true,
+	"yaproq/yaproq": true,
+	"lorcalhost/BTB-manager-telegram": true,
+	"vignette-project/vignette": true,
+	"snapshot-labs/snapshot": true
 }
