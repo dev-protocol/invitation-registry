@@ -60,5 +60,11 @@
 	"tomavelev/flutter_updateable_plugin": true,
 	"SQ-UI/ng-sq-ui": true,
 	"ksk001100/seahorse": true,
-	"bar-loon/barloon-web": true
+	"bar-loon/barloon-web": true,
+	"leon-ai/leon": true,
+	"steelydylan/react-split-mde": true,
+	"slidevjs/slidev": true,
+	"vueuse/vueuse": true,
+	"saberland/saber": true,
+	"egoist/tsup": true
 }
