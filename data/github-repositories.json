@@ -71,5 +71,8 @@
 	"yaproq/yaproq": true,
 	"lorcalhost/BTB-manager-telegram": true,
 	"vignette-project/vignette": true,
-	"snapshot-labs/snapshot": true
+	"snapshot-labs/snapshot": true,
+	"kamiazya/rediagram": true,
+	"napi-rs/napi-rs": true,
+	"reduxjs/redux-toolkit": true
 }
