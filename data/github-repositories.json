@@ -77,5 +77,6 @@
 	"reduxjs/redux-toolkit": true,
 	"d2phap/ImageGlass": true,
 	"zone117x/node-cryptonote-pool": true,
-	"wckr/wocker": true
+	"wckr/wocker": true,
+	"nolimits4web/swiper": true
 }
