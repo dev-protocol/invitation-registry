@@ -74,5 +74,7 @@
 	"snapshot-labs/snapshot": true,
 	"kamiazya/rediagram": true,
 	"napi-rs/napi-rs": true,
-	"reduxjs/redux-toolkit": true
+	"reduxjs/redux-toolkit": true,
+	"d2phap/ImageGlass": true,
+	"zone117x/node-cryptonote-pool": true
 }
