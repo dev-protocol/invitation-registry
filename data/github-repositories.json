@@ -76,5 +76,6 @@
 	"napi-rs/napi-rs": true,
 	"reduxjs/redux-toolkit": true,
 	"d2phap/ImageGlass": true,
-	"zone117x/node-cryptonote-pool": true
+	"zone117x/node-cryptonote-pool": true,
+	"wckr/wocker": true
 }
