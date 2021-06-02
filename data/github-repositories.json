@@ -81,5 +81,8 @@
 	"nolimits4web/swiper": true,
 	"chaqmoq/chaqmoq": true,
 	"leon-anavi/rpi-examples": true,
-	"RoiArthurB/Side-Auto_Sci-Hub": true
+	"RoiArthurB/Side-Auto_Sci-Hub": true,
+	"Blackprint/Blackprint": true,
+	"ScarletsFiction/ScarletsFrame": true,
+	"piglovesyou/graphql-let": true
 }
