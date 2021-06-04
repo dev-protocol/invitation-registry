@@ -87,5 +87,20 @@
 	"piglovesyou/graphql-let": true,
 	"itsumura-h/nim-allographer": true,
 	"itsumura-h/nim-interface-implements": true,
-	"itsumura-h/nim-basolato": true
+	"itsumura-h/nim-basolato": true,
+	"vuejs/vue-next": true,
+	"danger/danger": true,
+	"bknds/ng-pi-admin": true,
+	"ffxiv-teamcraft/ffxiv-teamcraft": true,
+	"Girl-Code-It/Opportunity-Calendar-Frontend": true,
+	"MartinsOnuoha/countriesNowAPI": true,
+	"laslibs/las-js": true,
+	"TaKO8Ki/awesome-alternatives-in-rust": true,
+	"skick1234/DisTube": true,
+	"koxudaxi/datamodel-code-generator": true,
+	"koxudaxi/pydantic-pycharm-plugin": true,
+	"koxudaxi/fastapi-code-generator": true,
+	"koxudaxi/poetry-pycharm-plugin": true,
+	"koxudaxi/local-data-api": true,
+	"will-stone/browserosaurus": true
 }
