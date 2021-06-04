@@ -84,5 +84,8 @@
 	"RoiArthurB/Side-Auto_Sci-Hub": true,
 	"Blackprint/Blackprint": true,
 	"ScarletsFiction/ScarletsFrame": true,
-	"piglovesyou/graphql-let": true
+	"piglovesyou/graphql-let": true,
+	"itsumura-h/nim-allographer": true,
+	"itsumura-h/nim-interface-implements": true,
+	"itsumura-h/nim-basolato": true
 }
