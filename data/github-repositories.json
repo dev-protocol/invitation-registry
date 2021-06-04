@@ -102,5 +102,7 @@
 	"koxudaxi/fastapi-code-generator": true,
 	"koxudaxi/poetry-pycharm-plugin": true,
 	"koxudaxi/local-data-api": true,
-	"will-stone/browserosaurus": true
+	"will-stone/browserosaurus": true,
+	"gajus/slonik": true,
+	"netbootxyz/netboot.xyz": true
 }
