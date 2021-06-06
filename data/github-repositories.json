@@ -111,5 +111,8 @@
 	"BlankerL/DXY-COVID-19-Crawler": true,
 	"NativeScript/NativeScript": true,
 	"triniwiz/nativescript-plugins": true,
-	"metaversetheater/NFTMetaverseTheater": true
+	"metaversetheater/NFTMetaverseTheater": true,
+	"shiika-lang/shiika":true,
+	"femtovg/femtovg": true,
+	"taurenshaman/payhub": true
 }
