@@ -102,5 +102,18 @@
 	"koxudaxi/fastapi-code-generator": true,
 	"koxudaxi/poetry-pycharm-plugin": true,
 	"koxudaxi/local-data-api": true,
-	"will-stone/browserosaurus": true
+	"will-stone/browserosaurus": true,
+	"gajus/slonik": true,
+	"netbootxyz/netboot.xyz": true,
+	"inherd/uncode": true,
+	"talentlessguy/balance-crypto": true,
+	"photoprism/photoprism": true,
+	"BlankerL/DXY-COVID-19-Crawler": true,
+	"NativeScript/NativeScript": true,
+	"triniwiz/nativescript-plugins": true,
+	"metaversetheater/NFTMetaverseTheater": true,
+	"shiika-lang/shiika":true,
+	"femtovg/femtovg": true,
+	"taurenshaman/payhub": true,
+	"IslandviewDigital/Islandview": true
 }
