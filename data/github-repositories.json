@@ -115,5 +115,7 @@
 	"shiika-lang/shiika":true,
 	"femtovg/femtovg": true,
 	"taurenshaman/payhub": true,
-	"IslandviewDigital/Islandview": true
+	"IslandviewDigital/Islandview": true,
+	"anttiviljami/openapi-backend": true,
+	"yinggaozhen/awesome-go-cn": true
 }
