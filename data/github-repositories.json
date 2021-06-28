@@ -125,5 +125,8 @@
 	"Jaspero/jms": true,
 	"talentlessguy/tinyws": true,
 	"code4moldova/catalog-profesii": true,
-	"svub/nimiq-popup-shop": true
+	"svub/nimiq-popup-shop": true,
+	"tinyhttp/malibu": true,
+	"aprilahijriyan/falca": true,
+	"kfaria/steadfast-frontend": true
 }
