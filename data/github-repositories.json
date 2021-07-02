@@ -128,5 +128,7 @@
 	"svub/nimiq-popup-shop": true,
 	"tinyhttp/malibu": true,
 	"aprilahijriyan/falca": true,
-	"kfaria/steadfast-frontend": true
+	"kfaria/steadfast-frontend": true,
+	"framework7io/framework7": true,
+	"cryptomator/cryptomator": true
 }
