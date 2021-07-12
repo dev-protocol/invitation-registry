@@ -132,5 +132,6 @@
 	"framework7io/framework7": true,
 	"cryptomator/cryptomator": true,
 	"dwisiswant0/apkleaks": true,
-	"tsurumeso/vocal-remover": true
+	"tsurumeso/vocal-remover": true,
+	"deno-libs/gql": true
 }
