@@ -133,5 +133,6 @@
 	"cryptomator/cryptomator": true,
 	"dwisiswant0/apkleaks": true,
 	"tsurumeso/vocal-remover": true,
-	"deno-libs/gql": true
+	"deno-libs/gql": true,
+	"mzomia00/m-zomia": true
 }
