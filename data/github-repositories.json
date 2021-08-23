@@ -135,5 +135,14 @@
 	"tsurumeso/vocal-remover": true,
 	"deno-libs/gql": true,
 	"mzomia00/m-zomia": true,
-	"kazu80/Ticktock": true
+	"kazu80/Ticktock": true,
+	"piglovesyou/graphql-let": true,
+	"d2phap/fluent-reveal-effect": true,
+	"strawberry-graphql/strawberry": true,
+	"atusy/minidown": true,
+	"oblador/hush": true,
+	"tsuyoshicho/vim-efm-langserver-settings": true,
+	"nativescript-vue/nativescript-vue": true,
+	"Leko/textlint-plugin-vue-i18n": true,
+	"zeriontech/defi-sdk": true
 }
