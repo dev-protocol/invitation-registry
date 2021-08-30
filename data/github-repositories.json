@@ -144,5 +144,7 @@
 	"tsuyoshicho/vim-efm-langserver-settings": true,
 	"nativescript-vue/nativescript-vue": true,
 	"Leko/textlint-plugin-vue-i18n": true,
-	"zeriontech/defi-sdk": true
+	"zeriontech/defi-sdk": true,
+	"pingcap/tidb": true,
+	"521xueweihan/HelloGitHub": true
 }
