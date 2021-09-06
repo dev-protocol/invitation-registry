@@ -146,5 +146,6 @@
 	"Leko/textlint-plugin-vue-i18n": true,
 	"zeriontech/defi-sdk": true,
 	"pingcap/tidb": true,
-	"521xueweihan/HelloGitHub": true
+	"521xueweihan/HelloGitHub": true,
+	"JimmyLv/styled-roam": true
 }
