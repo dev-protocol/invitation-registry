@@ -152,5 +152,6 @@
 	"marimosphere/ArtiStake": true,
 	"exelban/stats": true,
 	"cobogo-social/cobogo.social": true,
-	"GoodDollar/GoodDAPP": true
+	"GoodDollar/GoodDAPP": true,
+	"anttiviljami/openapi-client-axios": true
 }
