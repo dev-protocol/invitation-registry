@@ -153,5 +153,7 @@
 	"exelban/stats": true,
 	"cobogo-social/cobogo.social": true,
 	"GoodDollar/GoodDAPP": true,
-	"anttiviljami/openapi-client-axios": true
+	"anttiviljami/openapi-client-axios": true,
+	"codeforjapan/socialhackday/": true,
+	"yamapyblack/CryptoFrontier": true
 }
