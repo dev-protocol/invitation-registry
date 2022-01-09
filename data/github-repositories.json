@@ -155,5 +155,6 @@
 	"GoodDollar/GoodDAPP": true,
 	"anttiviljami/openapi-client-axios": true,
 	"codeforjapan/socialhackday/": true,
-	"yamapyblack/CryptoFrontier": true
+	"yamapyblack/CryptoFrontier": true,
+	"MatteuSan/sentro": true
 }
