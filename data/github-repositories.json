@@ -156,5 +156,6 @@
 	"anttiviljami/openapi-client-axios": true,
 	"codeforjapan/socialhackday/": true,
 	"yamapyblack/CryptoFrontier": true,
-	"MatteuSan/sentro": true
+	"MatteuSan/sentro": true,
+	"seachicken/gh-poi": true
 }
